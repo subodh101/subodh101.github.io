@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
+title: Subodh Pushkar
 email: your-email@domain.com
-author: Your Name
+author: Subodh Pushkar
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -27,8 +27,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/subodh101__
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/subodh101
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/subodh-pushkar-595956b9/
