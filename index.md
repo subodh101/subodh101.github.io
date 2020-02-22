@@ -4,8 +4,6 @@
 ### MLOps
 Description
 
-[k8s](https://kubernetes.io/)
-<img src="images/kubernetes.png?raw=true"/>
 
 ### Machine Learning Engineer
 Description
