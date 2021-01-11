@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://subodh101.github.io/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "SP | Personal blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -99,12 +99,6 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
   # search
   [params.search]
   enable = true
-
-############################ news letter ########################
-[params.newsletter]
-enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
 
 
 # cookies

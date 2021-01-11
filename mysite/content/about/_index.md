@@ -13,8 +13,8 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+Hello folks, I am a Software Engineer in Mercari, Japan. My main focus is Machine Learning.
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+After completing my bachelors I joined Mercari and came to Japan in October 2018. There I created a violation detection multimodal and also did serving by myself. Then I got interested in serving ML models at scale because there are tons of models out there but how to make it useful was the thing that I found very exciting. So I joined ML Platform team and started doing MLOps.
 
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+Apart from my professional life, I love authentic cuisines, traveling, investing, poker, guitar.
