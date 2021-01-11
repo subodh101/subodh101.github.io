@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "subodh101.github.io"
+baseURL = "https://subodh101.github.io/"
 languageCode = "en-us"
 title = "Liva | Personal blog template"
 theme = "liva-hugo"
