@@ -2,7 +2,7 @@
 
 1. Install Jekyll.
 2. Create a Jekyll site
-
+3. cd home/ && bundle exec jekyll serve
 
 ### Source
 
