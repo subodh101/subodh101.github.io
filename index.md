@@ -1,30 +1,9 @@
-## Welcome to GitHub Pages
+<img src="../img/profile_pic.jpg" width="500">
 
-You can use the [editor on GitHub](https://github.com/subodh101/subodh101.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my Website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, That's me standing on a beach in [Hayama, Kanagawa](https://www.google.com/search?q=Hayama+Kanagawa){:target="_blank"}.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
