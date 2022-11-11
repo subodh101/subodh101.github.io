@@ -4,34 +4,12 @@ title: Contact
 permalink: /about/contact/
 ---
 
-### Markdown
+linkedin_username: [subodh101](https://www.linkedin.com/in/subodh101/){:target="_blank"}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+instagram_username: [subodh101](https://www.instagram.com/subodh101/){:target="_blank"}
 
-```markdown
-Syntax highlighted code block
+facebook_username: [subodh104](https://www.facebook.com/subodh104){:target="_blank"}
 
-# Header 1
-## Header 2
-### Header 3
+twitter_username: [subodh104](https://twitter.com/subodh104){:target="_blank"}
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/subodh101/subodh101.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+github_username: [subodh101](https://github.com/subodh101){:target="_blank"}

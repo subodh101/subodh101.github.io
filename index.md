@@ -2,4 +2,4 @@
 
 ## Welcome to my Website
 
-Hello, That's me standing on a beach in [Hayama, Kanagawa](https://www.google.com/search?q=Hayama+Kanagawa){:target="_blank"}.
+Profile &rarr; [subodhpushkar.com/pro](https://subodhpushkar.com/pro){:target="_blank"}

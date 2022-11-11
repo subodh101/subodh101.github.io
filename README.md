@@ -1,6 +1,6 @@
 # Subodh Pushkar
 
-Website: https://www.subodhpushkar.com
+Website: https://subodhpushkar.com/
 
 
 ## Website setup
