@@ -1,5 +1,9 @@
-<img src="../img/profile_pic.jpg" width="500">
+<p align="center">
+    <img src="../img/pic.png" width="500">
+</p>
 
-## Welcome to my Website
+<!-- <img src="../img/profile_pic.jpg" width="500"> -->
 
-Profile &rarr; [subodhpushkar.com/pro](https://subodhpushkar.com/pro){:target="_blank"}
+# Welcome to my Website
+
+### Profile &rarr; [subodhpushkar.com/pro](https://subodhpushkar.com/pro){:target="_blank"}
