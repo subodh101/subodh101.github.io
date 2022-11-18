@@ -6,4 +6,4 @@
 
 # Welcome to my Website
 
-### Profile &rarr; [subodhpushkar.com/pro](https://subodhpushkar.com/pro){:target="_blank"}
+### Profile &rarr; [pro.subodh101.com/timeline](https://pro.subodh101.com/timeline){:target="_blank"}
