@@ -1,3 +1,3 @@
 # Welcome
 
-[https://subodh101.github.io/](https://subodh101.github.io/)
+[subodh101.github.io](https://subodh101.github.io/)
